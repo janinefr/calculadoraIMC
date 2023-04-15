@@ -87,10 +87,6 @@ button:hover{
     opacity: 1;
 }
 
-#clear-btn{
-    background-color: #444;
-}
-
 /* Table Header */
 
 #result-container{
